@@ -2,7 +2,7 @@
 
 ## 📊 Diagrama Block
 
-![Block Diagram]("C:\Users\40726\Desktop\tsc\Block_Diagram.png")
+![Block Diagram](Images\Block_Diagram.png)
 
 
 ---
