@@ -2,7 +2,7 @@
 
 ## 📊 Diagrama Block
 
-![Block Diagram](Images\Block_Diagram.png)
+![Block Diagram](EBook_Reader/Images/Block_Diagram.png)
 
 
 ---
